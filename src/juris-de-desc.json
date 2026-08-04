@@ -253,6 +253,21 @@
     "trdg.sud": {
       "name": "Truppendienstgericht Süd",
       "ABBREV": "TDG Süd"
+    },
+    "rg": {
+      "name": "Reichsgericht",
+      "comment": "< 1945",
+      "ABBREV": "RG"
+    },
+    "rohg": {
+      "name": "Reichsoberhandelsgericht",
+      "comment": "< 1945",
+      "ABBREV": "ROHG"
+    },
+    "otrib": {
+      "name": "%s Obertribunal",
+      "comment": "< 1945",
+      "ABBREV": "%sObTr"
     }
   },
   "jurisdictions": {
@@ -6097,6 +6112,21 @@
       "name": "Weimar",
       "courts": {
         "vg": {}
+      }
+    },
+    "de:vor1945": {
+      "name": "vor 1945",
+      "courts": {
+        "rg": {},
+        "rohg": {}
+      }
+    },
+    "de:vor1945:preussen": {
+      "name": "Preußen",
+      "ABBREV": "Pr",
+      "abbrev": "Pr",
+      "courts": {
+        "otrib": {}
       }
     }
   }
