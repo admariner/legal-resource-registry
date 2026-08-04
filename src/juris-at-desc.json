@@ -187,6 +187,12 @@
     "bwb": {
       "name": "Bundeswettbewerbsbehörde",
       "ABBREV": "BWB"
+    },
+    "rg": {
+      "name": "Reichsgericht",
+      "comment": "<1919",
+      "ABBREV": "RG",
+      "abbrev": "RG"
     }
   },
   "jurisdictions": {
@@ -206,7 +212,8 @@
         "dsb": {},
         "bvga": {},
         "opms": {},
-        "bwb": {}
+        "bwb": {},
+        "rg": {}
       }
     },
     "at:burgenland": {
